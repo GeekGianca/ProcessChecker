@@ -1,0 +1,16 @@
+Para ejecutar se posiciona en la carpeta del archivo(checkprocess.sh) con el comando:
+$ ./checkprocess.sh
+Recibe dos variables por parametro
+Al no pasar ningun parametro toma la ruta actual como predeterminada
+Una ruta -> Ej: /home/myuser/documents/script
+Nombre del archivo con extension .txt u otro valido
+	 =====SCRIPT=====  ========DIRECTORIO==========	==ARCHIVO==
+Ej: -> $ ./checkprocess.sh /home/myuser/documents/script process.txt
+
+En caso de no proporcionar la ruta ni el nombre del archivo entonces le solicitara ingresar el nombre del archivo
+con su ruta absoluta en caso de estar en otro lugar Ej: /home/myuser/documents/script/procesos.txt
+Si no proporciona la ruta ni el nombre del archivo por el parametro entonces debe proporcionar la ruta completa
+del archivo con el archivo como se muestra anteriormente.
+En caso de proporcionar solo la ruta /home/myuser/document/script/
+el script le pedira el nombre del archivo .txt o similar.
+Luego de realizar estos pasos, el proceso se realiza automaticamente.

@@ -1,0 +1,7 @@
+1 - google - 76 => N/F
+132 - Hy-sd - 65 => N/F
+3234 - Mkd - 234 => N/F
+534 - OSPD - 756 => N/F
+17370 - command-not-fou - 17369 => N/F
+645 - hbox - 6 => N/F
+23 - hdggs - 3 => N/F

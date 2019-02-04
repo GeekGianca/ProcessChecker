@@ -1,0 +1,2 @@
+108 - charger_manager - 2 => State -> State: => OK
+11 - watchdog/0 - 2 => State -> State: => OK
